@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^([a-zA-Z]+)$ index.php?modulo=$1
